@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1022246354336",
+    "project_id": "my-final-project-33542",
+    "storage_bucket": "my-final-project-33542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022246354336:android:2077776a2f386e909ef8c5",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.lab.myfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022246354336-gl16oroggt106eg88vq4qv4g86i2npbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXhYYtUgvwwwExIJ70MFvu1GXQFbgpKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022246354336-gl16oroggt106eg88vq4qv4g86i2npbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022246354336:android:8b8ff0f9757a171d9ef8c5",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobile.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022246354336-gl16oroggt106eg88vq4qv4g86i2npbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXhYYtUgvwwwExIJ70MFvu1GXQFbgpKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022246354336-gl16oroggt106eg88vq4qv4g86i2npbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022246354336:android:ea17ac8f8bd2888a9ef8c5",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.finalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022246354336-gl16oroggt106eg88vq4qv4g86i2npbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXhYYtUgvwwwExIJ70MFvu1GXQFbgpKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022246354336-gl16oroggt106eg88vq4qv4g86i2npbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

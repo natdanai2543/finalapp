@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_signUpFragment_to_signInFragment" type="id" />
+    <item name="action_signOutFragment_to_signInFragment" type="id" />
+    <item name="action_signInFragment_to_signOutFragment" type="id" />
+    <item name="action_signInFragment_to_signUpFragment" type="id" />
+    <item name="viewPager2" type="id" />
+    <item name="action_signOutFragment_to_MainActivity" type="id" />
+    <item name="recyclerView" type="id" />
+</resources>
